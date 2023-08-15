@@ -7,6 +7,7 @@ CoinSwapBot is a project that provides an API for buying and exchanging Ethereum
 1. Obtaining the rate of BTC and ETH
 2. Obtaining the rate of BTC and ETH
 3. Displaying contacts
+4. Localization in Ukrainian, Polish, Japanese, English
 
 ## Functions in Progress:
 
